@@ -1,6 +1,6 @@
 # pui-hw3
 Programming Usable Interfaces Assignment 3, ReactJS interface for a bakery shop
-
+Deployed website: https://archanaramakrishnan.github.io/pui-hw3/
 
 # Getting Started with Create React App
 
