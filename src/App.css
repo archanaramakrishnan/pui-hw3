@@ -68,16 +68,10 @@ a {
   
 }
 
-.navbar-cart {
-  padding-left: 65px;
-}
-
 header {
   display: flex;
   justify-content: space-evenly;
 }
-
-
 
 .logo {
   flex: 30%;
@@ -88,6 +82,10 @@ header {
   padding-top: 30px;
   flex: 70%;
   text-align: center;
+}
+
+.navbar-cart {
+  padding-left: 65px;
 }
 
 .list {

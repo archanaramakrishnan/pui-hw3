@@ -9,19 +9,12 @@ import strawberry from './products/strawberry-cinnamon-roll.jpg';
 import logo from './logo/logo-01.svg';
 
 import Roll from './Roll.js';
+import NavBar from './NavBar';
 
 function App() {
   return (
     <div className="App">
-      <header>
-        <img className="logo" src={logo} alt="logo of the bun bun bake shop which is a doodle of a cinammon roll"/>
-        <div className="navbar">
-          <a className="navbar-products">PRODUCTS</a>
-          <b className="navbar-cart">CART</b>
-          <hr/>
-          <p className="tagline">Our hand-made cinnamon rolls</p>
-        </div>
-      </header>
+      <NavBar></NavBar>
 
       <div className="list">
         <Roll 
